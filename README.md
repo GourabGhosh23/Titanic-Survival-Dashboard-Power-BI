@@ -25,7 +25,8 @@ In this Titanic survival analysis project, I developed a Power BI dashboard to g
 
 •	**Survival by Class and Sex:**  
 
-•	The bar charts highlight any patterns or discrepancies in survival rates based on passenger class and gender. For example, were there more female survivors in a particular class?
+•	The bar charts highlight any patterns or discrepancies in survival rates based on passenger class and gender. For example, were there more female survivors in a particular class?  
+
 •	**Age Group Distribution:**  
 
 •	The donut chart provides an overview of the age distribution among survivors. It helps in understanding whether certain age groups had higher chances of survival.  
